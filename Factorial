@@ -2,7 +2,13 @@
 <html>
     <head>
         <title>Factorial in Javascript</title>
-    </head>
+        <style>
+        *{
+          margin-top:120px;
+          margin-left:10px;
+         }
+        </style>
+   </head>
     <body bgcolor="black">
         <script>
             var no = prompt("Enter no");
