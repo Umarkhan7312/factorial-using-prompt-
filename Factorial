@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Factorial in Javascript</title>
+    </head>
+    <body bgcolor="black">
+        <script>
+            var no = prompt("Enter no");
+            var fact=no;
+            for( i=2;i<no;i++)
+            {
+                fact=fact*i;
+            }
+            alert("Factorial is : "+fact);
+        </script>
+   
+    <p style="color:white;                     
+              text-align:center">
+               Have A Good Day</p>
+    </body>
+</html>
